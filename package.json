@@ -18,7 +18,7 @@
     "hubot-scripts": "~2.5.16",
     "hubot-slack": "~3.2.1",
     "hubot": "~2.11.0",
-    "hubot-maps": "0.0.1",
+    "hubot-maps": "https://github.com/shtian/hubot-maps/archive/0.0.1p.tar.gz",
     "coffee-script": "~1.9.0"
   },
   "engines": {
